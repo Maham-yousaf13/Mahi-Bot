@@ -1,2 +1,104 @@
-Project Title: MahiBot - Personal AI Assistant for Maham YousafProfessional Summary:
-Maham Yousaf is a dedicated Software Engineering student at UMT  with extensive expertise in full-stack web development and e-commerce operations.  Technical Skills:Languages & Frameworks: Python (Django), JavaScript (React.js), C++, Java, HTML5, CSS3.  Tools & Platforms: GitHub, VS Code, WordPress, Tkinter, MS Excel, Google Sheets, eBay Seller Central.  Professional Experience & Expertise:E-Commerce Development & Operations:Developed and managed multiple e-commerce websites, focusing on end-to-end store operations.  Expertise in product research, listing optimization, and market trend analysis to maximize sales velocity.  SaaS Development:Designed and engineered complex SaaS-based applications, focusing on scalable architecture and user-centric design.Professional Roles:Focal Person & Intern at Inter Services Public Relations (ISPR).  Managed cross-functional logistics and communication strategies.  Key Projects:Smart Attendance & Performance Tracker: A full-stack automated system built with Django, React.js, and SQLite. Features include real-time performance monitoring and automated dynamic PDF report generation using ReportLab.  AI-Powered Code Debugger: Developed an intelligent scripting tool using Python to analyze source code and automatically detect syntax errors.  Certifications:Summer Internship Certificate, ISPR (2025).  Presentation Skills & Linguistic Analysis Workshop Certifications, UMT (2026). 
+================================================================================
+                    MAHIBOT - COMPLETE KNOWLEDGE BASE
+================================================================================
+
+PERSONAL INFORMATION
+--------------------
+Name: Maham Yousaf
+Current Role: Software Engineering Student at UMT
+Location: Pakistan
+Email: mahamyousaf6132@gmail.com
+Phone: 0315-6113730
+GitHub: https://github.com/Maham-yousaf13
+LinkedIn: https://www.linkedin.com/in/maham-yousaf-dev
+
+PROFESSIONAL SUMMARY
+--------------------
+Maham Yousaf is a Software Engineering student at UMT and Founder of Kryzto Digital - a full-stack web development and software solutions company.
+
+CURRENT ROLE
+------------
+Company: Kryzto Digital
+Role: Founder & Full-Stack Web Developer
+
+KRYZTO DIGITAL SERVICES
+------------------------
+1. Full-Stack & App Development
+2. AI-Driven Solutions
+3. SaaS Platform Development
+4. E-Commerce Development
+5. Custom Bespoke Design
+
+TECHNICAL SKILLS
+----------------
+Languages: Python, JavaScript, C++, Java, HTML5, CSS3, SQL
+Frameworks: Django, React.js, Bootstrap, Tailwind CSS, Flask
+Tools: GitHub, VS Code, Streamlit, WordPress
+Databases: SQLite, PostgreSQL, MySQL
+AI: LangChain, FAISS, HuggingFace, Groq API
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+1. Founder - Kryzto Digital (2025-Present)
+2. E-Commerce Development (2+ Years)
+3. SaaS Development (1.5+ Years)
+4. Intern at ISPR (2025)
+
+KEY PROJECTS
+------------
+1. AI-Powered Code Debugger (AI_Debuger)
+2. Legal Mates Federation (LMF) Website
+3. Smart Attendance & Performance Tracker (SAPT)
+4. Luxury Smart Wearables
+5. Smart SaaS Dashboard
+6. Mahi-Bot (Personal AI Assistant)
+7. MovieMeter - Movie Discovery Platform
+8. Restaurant Management System
+
+LIVE DEMOS
+----------
+Restaurant: https://Mahin13.pythonanywhere.com
+MovieMeter: https://mahinoor.pythonanywhere.com
+Mahi-Bot: https://mahi-bot-ed4jqmimeghax6brkwwu4j.streamlit.app
+LMF: https://lmf-client.vercel.app
+
+CERTIFICATIONS
+--------------
+1. ISPR Summer Internship (2025)
+2. Presentation Skills Workshop - UMT (2026)
+3. Linguistic Analysis Certificate - UMT (2026)
+
+ACHIEVEMENTS
+------------
+- Founder of Kryzto Digital
+- 6+ GitHub repositories
+- 8+ complete projects
+- 2+ years e-commerce experience
+
+MAHI'S TWIN - AUON MUHAMMAD
+---------------------------
+Name: Auon Muhammad (Mahi's Twin)
+Relationship: Twin Brother
+About: Auon is Maham's twin brother and biggest source of strength. He is her first supporter, emotional anchor, and constant companion.
+
+FUN FACTS
+---------
+Hobbies: Book reading, Crafting, Chatting
+Instagram: @kryztodigital (Business), @mahii06592 (Personal)
+
+CONTACT
+-------
+Email: mahamyousaf6132@gmail.com
+Phone: 0315-6113730
+GitHub: https://github.com/Maham-yousaf13
+LinkedIn: https://www.linkedin.com/in/maham-yousaf-dev
+
+KRYZTO DIGITAL CONTACT
+----------------------
+Email: digitalkryzto@gmail.com
+Phone: 0329-1011956
+Instagram: @kryztodigital
+
+================================================================================
+                    END OF KNOWLEDGE BASE
+================================================================================
